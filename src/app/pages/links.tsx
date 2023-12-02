@@ -25,16 +25,4 @@ export const links = [
     href: "mailto:gautamnagvekar7@gmail.com",
     icon: <FaEnvelope />
   }
-  // {
-  //   index: 3,
-  //   title: "Find me on Medium",
-  //   href: "https://medium.com/@",
-  //   icon: <FaMedium />,
-  // },
-  // {
-  //   index: 4,
-  //   title: "Find me on Blog",
-  //   href: "https://.github.io/blog/",
-  //   icon: <FaBlog />
-  // }
 ];
